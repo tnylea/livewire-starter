@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "tnylea/livewire-starter",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Simple Laravel Livewire starter",
     "keywords": [
         "laravel",
         "framework"
